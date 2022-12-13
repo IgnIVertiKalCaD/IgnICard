@@ -5,7 +5,7 @@
 </template>
 
 <script>
-import aboutPage from "../pages/aboutPage.vue";
+import aboutPage from "../cards/aboutCard.vue";
 export default {
   name: "MainPage",
   components: { aboutPage },
