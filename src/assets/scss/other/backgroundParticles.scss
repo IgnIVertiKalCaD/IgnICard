@@ -1,12 +1,12 @@
 body {
-    background: black !important;
+  background: linear-gradient(to left, #4f2679, #4f2679);
 }
 .area{
     background: linear-gradient(to left, #432566, #713aa8);
     opacity: 0;
     width: 100%;
-    height: 100vh;
-    position: absolute;
+    height: 100%;
+    position: fixed;
     top: 0;
     z-index: -5;
     left: 0;

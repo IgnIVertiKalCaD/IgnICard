@@ -1,0 +1,12 @@
+.card {
+    --bs-card-bg: none !important;
+    border: none !important;
+  }
+  .btn-check:checked + .btn,
+  :not(.btn-check) + .btn:active,
+  .btn:first-child:active,
+  .btn.active,
+  .btn.show {
+    color: white !important;
+    border-color: white !important;
+  }
