@@ -46,10 +46,6 @@ export default {
   components: { cardInformation, aboutCard, profile, social },
   data() {
     return {
-      name: "IgnI",
-      about: "Front-end developer",
-      url_picture:
-        "https://cdn.discordapp.com/avatars/709479393302675496/b62e01250f65f7db6e3c949801e6d673.webp?size=1024",
       AboutOfMe: [
         {
           card_title: "VueJS 3",
