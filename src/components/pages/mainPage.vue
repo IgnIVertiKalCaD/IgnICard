@@ -78,7 +78,7 @@ export default {
         },
         {
           card_title: "Figma",
-          card_text: "I use Firma as it is much simpler and available on Linux",
+          card_text: "I use Figma as it is much simpler and available on Linux",
           url_picture: figma,
         },
       ],
