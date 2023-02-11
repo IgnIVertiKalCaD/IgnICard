@@ -2,7 +2,7 @@
 Site card for myself and about me
 
 
-Site / сайт - https://igni.mirror-sky.xyz
+Site / сайт - https://igniverti.su
 
 There are two versions of the site, so choose the one you like best. I don't decide for you
 
