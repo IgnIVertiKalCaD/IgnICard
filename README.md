@@ -1,6 +1,6 @@
 # IgnICard
 Site card for myself and about me
-
+хуита на vue3
 
 Site / сайт - https://igniverti.su
 
